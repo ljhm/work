@@ -1,0 +1,10 @@
+Log file created at: 2022/04/06 03:56:26
+Running on machine: Mac-mini
+Binary: Built with gc go1.18 for darwin/amd64
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0406 03:56:26.058428   17573 main.go:13] -log_dir=../log_dir
+I0406 03:56:26.059267   17573 main.go:18] 
+I0406 03:56:26.059278   17573 foo.go:10] 
+I0406 03:56:26.059281   17573 bar.go:9] 
+I0406 03:56:26.068921   17573 main.go:20] 
+I0406 03:56:26.068937   17573 bar.go:9] 
